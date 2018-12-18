@@ -1,2 +1,3 @@
-# cs231
-Self-paced CS231n course w/ ODS.ai
+# CS231
+
+![Gooses got you](assets/231logo.png)
